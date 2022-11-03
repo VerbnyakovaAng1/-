@@ -1,4 +1,4 @@
-# -print("Морской бой")
+print("Морской бой")
 import random
 ship = [[0, 0], [0, 1], [0, 2], [0, 3]]
 def random_board():
